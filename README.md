@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Jude Hosmer
-- 🌱 I’m currently studying Computer Science & Economics
+- 🌱 I’m currently studying Computer Science & Economics at Boston University
 - 📫 How to reach me judeh@bu.edu
